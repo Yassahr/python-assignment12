@@ -1,0 +1,9 @@
+Reflect on the differences between static and interactive visualizations.
+    Static visualization are easier to stand up but a lot less robust when it comes to user experience compared to interactive visualizations
+Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+    Dashboard for realtime data exploration allow a easy and accessible UI for users who need to parse and understand lots of information in a data set in a readable way.
+    This is done throught the use of filters and dynamic display to enhance the granuality at which data is observed.
+    Advantages of a real time dashboard include the ability to update information in real time as well and makes the way to display data very modular therefore customizable to the end users needs.
+Explain how interactive tools like Plotly and Dash can improve data communication in professional settings.
+    It allows someone to stand up a data visualization in a matter of minutes instead of hours. Not only allowing for easier ways to analyze the data but also makes it easier to understand a create unique views, check correlations and modify if needed.
+    https://python-assignment12-yr.onrender.com
